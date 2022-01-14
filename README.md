@@ -4,7 +4,7 @@
 - I'm currently Developing my skills about Website Building...
 - I Like Working on Projects which holds great innovation
 
-### Here Are Few Things I Tried And Have The Basic Idea 
+### Here Are Few Things I Tried And Have The Basic Idea:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6a5b89?style=for-the-badge&logo=javascript)&nbsp;
@@ -15,7 +15,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-6a5b89?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6a5b89?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-6a5b89.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 # 😪 Learning more...
 
 
