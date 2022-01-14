@@ -1,7 +1,7 @@
 # 👋 Yo I'm XAR
 ## A-K-A Tahajib Efaj 🌱
 
-<img src="https://cdn.discordapp.com/attachments/923779317312417913/931415823803887647/banner-welcome.gif" height="50px"/>
+<img src="https://cdn.discordapp.com/attachments/923779317312417913/931415823803887647/banner-welcome.gif" height="100%"/>
 
 - I'm currently Developing my skills about Website Building...
 - I Like Working on Projects which holds great innovation
