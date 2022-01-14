@@ -21,7 +21,7 @@
 ### ☎️ Contact me:
 
 <a href="https://discord.com/users/923778862830202951"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" /></a>
-<a href="https://instagram.com/call.me.xar"><img height="45px" src="https://cdn.discordapp.com/attachments/923779317312417913/931411549699059812/logo-instagram-png-13550.png" /></a>
+<a href="https://instagram.com/call.me.xar"><img height="40px" src="https://cdn.discordapp.com/attachments/923779317312417913/931411549699059812/logo-instagram-png-13550.png" /></a>
 <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
 <div align="center"><img src="https://tenor.com/view/90s-anime-aesthetic-buildings-city-gif-17310551"></div>
