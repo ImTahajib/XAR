@@ -21,8 +21,8 @@
 
 ### ☎️ Contact me:
 
-<a href="https://discord.com/users/923778862830202951" target="blank_"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" /></a>
-<a href="https://instagram.com/call.me.xar" target="blank_"><img height="50px" src="https://www.transparentpng.com/details/logo-instagram-clipart-photos_13550.html" /></a>
-<a href="mailto:imtahajib@gmail.com" target="blank_"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
+<a href="https://discord.com/users/923778862830202951"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" /></a>
+<a href="https://instagram.com/call.me.xar"><img height="50px" src="https://cdn.discordapp.com/attachments/923779317312417913/931411549699059812/logo-instagram-png-13550.png" /></a>
+<a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
 <div align="center"><img src="https://cdn.discordapp.com/attachments/889523668252753931/909351637888417802/7db4f675de8ebfcee294b2fc7d1e6452.gif"></div>
