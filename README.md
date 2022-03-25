@@ -1,5 +1,5 @@
 # 👋 Aye, Welcome
-## Tahajib Efaj ###here 🌱
+## Tahajib Efaj here 🌱
 
 <img src="https://cdn.discordapp.com/attachments/923779317312417913/931415823803887647/banner-welcome.gif" height="100%"/>
 
