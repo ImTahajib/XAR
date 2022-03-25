@@ -1,12 +1,11 @@
-# 👋 Yo I'm XAR
-## A-K-A Tahajib Efaj 🌱
+# 👋 Aye, Welcome
+## Tahajib Efaj ###here 🌱
 
 <img src="https://cdn.discordapp.com/attachments/923779317312417913/931415823803887647/banner-welcome.gif" height="100%"/>
 
-- I'm currently Developing my skills about Website Building...
-- I Like Working on Projects which holds great innovation
+- Currently developing my skills.
 
-### Here Are Few Things I Tried And Have The Basic Idea:
+### Here are few things I tried and learning them properly:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6a5b89?style=for-the-badge&logo=javascript)&nbsp;
@@ -17,13 +16,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-6a5b89?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6a5b89?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-# 😪 Learning more...
+# 🕊️
 
 
 ### ☎️ Contact me:
 
-<a href="https://discord.com/users/923778862830202951"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" /></a>
-<a href="https://instagram.com/call.me.xar"><img height="40px" src="https://cdn.discordapp.com/attachments/923779317312417913/931411549699059812/logo-instagram-png-13550.png" /></a>
 <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
 <div align="center"><img src="https://cdn.discordapp.com/attachments/923779317312417913/931417523017105468/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif"></div>
