@@ -1,11 +1,9 @@
 # 👋 Aye, Welcome
 ## Tahajib Efaj here 🌱
 
-<img src="https://cdn.discordapp.com/attachments/923779317312417913/931415823803887647/banner-welcome.gif" height="100%"/>
-
 - Currently developing my skills.
 
-### Here are few things I tried and learning them properly:
+### Here are few things I tried and learning them:
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6a5b89?style=for-the-badge&logo=javascript)&nbsp;
@@ -13,8 +11,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-6a5b89?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-6a5b89.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-6a5b89?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-6a5b89?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6a5b89?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 # 🕊️
 
