@@ -10,6 +10,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-6a5b89?style=for-the-badge&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-6a5b89?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-6a5b89.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-Python-blue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-6a5b89?style=for-the-badge&logo=git)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 # 🕊️
