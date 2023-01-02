@@ -18,4 +18,4 @@
 
 <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/923779317312417913/931417523017105468/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif"></div>
+<div align="center"><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"></div>
