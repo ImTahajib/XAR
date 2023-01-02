@@ -1,7 +1,7 @@
 ## 👋 Aye, Welcome
 # Tahajib Efaj here 🌱
 
-<div align="center"><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"> </div>
+<div><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"> </div>
 
 - Currently developing my skills.
 
