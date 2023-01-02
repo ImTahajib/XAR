@@ -1,5 +1,5 @@
-# 👋 Aye, Welcome
-## Tahajib Efaj here 🌱
+## 👋 Aye, Welcome
+# Tahajib Efaj here 🌱
 
 - Currently developing my skills.
 
@@ -9,12 +9,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6a5b89?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-6a5b89?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-6a5b89.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-blue)&nbsp;
+![Python](https://img.shields.io/badge/python-6a5b89.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-# 🕊️
 
 
-### ☎️ Contact me:
+# 🕊️ Contact me:
 
 <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" /></a>
 
