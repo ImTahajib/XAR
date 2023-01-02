@@ -16,6 +16,6 @@
 
 ### ☎️ Contact me:
 
-<a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
+<a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" /></a>
 
 <div align="center"><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"></div>
