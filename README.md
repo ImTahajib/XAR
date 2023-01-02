@@ -17,8 +17,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-6a5b89?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 
 
-<div align="center"> # 🕊️ Contact me:
+# 🕊️ Contact me: <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" /></a>
 
-<a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" /></a>
-
-<img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-34.gif"></div>
+<div align="center"> <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-34.gif"></div>
