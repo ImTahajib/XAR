@@ -1,6 +1,8 @@
 ## 👋 Aye, Welcome
 # Tahajib Efaj here 🌱
 
+<div align="center"><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"> </div>
+
 - Currently developing my skills.
 
 ### Here are few things I tried and learning them:
@@ -17,4 +19,4 @@
 
 <a href="mailto:imtahajib@gmail.com"><img height="50px" src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" /></a>
 
-<div align="center"><img src="https://e0.pxfuel.com/wallpapers/509/481/desktop-wallpaper-evolution-of-naruto-s-smile-boruto-naruto-smiling-thumbnail.jpg"> <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-34.gif"></div>
+<div align="center"><img src="https://usagif.com/wp-content/uploads/2022/fzk5d/preview-naruto-gif-wallpaper-1920-1080px-34.gif"></div>
